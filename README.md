@@ -1,2 +1,2 @@
 # Needleman-Wunsch
-small implementation of Needleman-Wunsch algorithm in Python.
+Small implementation of the Needleman-Wunsch algorithm in Python.
